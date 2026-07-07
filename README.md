@@ -1,4 +1,4 @@
-# Bug Bounty Hunter, and Programmer
+# Cybersecurity, and Programmer
 
 ## Snapshot
 - **Certification:** Certified Digital Forensic Investigator (DFE)
