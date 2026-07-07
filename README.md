@@ -1,3 +1,9 @@
+<img width="600" height="240" alt="ud1bdiscord" src="https://github.com/user-attachments/assets/5bda803f-9e63-4da7-bccd-1242dda9e43f" />
+<img width="680" height="233" alt="ud1bazme" src="https://github.com/user-attachments/assets/d7eead20-758b-491e-8baa-c68316e9a8d4" />
+<img width="512" height="204" alt="ud1bandpc2" src="https://github.com/user-attachments/assets/32fa6164-547d-49fb-9a25-662ca6c224ac" />
+<img width="512" height="204" alt="ud1bandpc" src="https://github.com/user-attachments/assets/481dc50c-1418-4ddf-a065-9fe81fa11aee" />
+<img width="880" height="192" alt="ud1b" src="https://github.com/user-attachments/assets/3e2f5f56-22ad-46c0-ba9a-ea87baada669" />
+<img width="680" height="233" alt="ud1b" src="https://github.com/user-attachments/assets/e7c2f94d-1585-46d6-b189-0b88baf0006f" />
 ## Hi there 👋
 
 <!--
